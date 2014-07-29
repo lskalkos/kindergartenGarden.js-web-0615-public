@@ -1,6 +1,10 @@
 {
   "name": "Garden",
   "version": "0.0.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "git@github.com:flatiron-school-curriculum/kindergartenGarden.js.git"
+  },
   "description": "Kindergarten Garden",
   "dependencies": {
     "grunt": "~0.4.1",
