@@ -9,7 +9,7 @@ Meet your new class!
 
 Alice, Bob, Charlie, David, Eve, Fred, Ginny, Harriet, Ileana, Joseph, Kincaid, and Larry.
 
-Here at the Flatiron School, we're starting a garden with our kindergarten class. To track which patch belongs to which student, we're writing an app to track them.
+Here at the Flatiron School, we're starting a garden with our kindergarten class. To track which patch belongs to which student, we're writing an app.
 
 We're supporting 4 kinds of crops: Grass, Violets, Radishes, and Clover. In our app, we'll reference them as G, V, R, and C respectively.
 
@@ -36,9 +36,10 @@ garden.bob
 // -> ['clover', 'grass', 'radishes', 'clover']
 ```
 
-
 ## Tests
+
 To run the specs follow these commands:
+
 ```shell
 # first install the new gem to run the tests
 gem sources -a http://flatiron:33west26@gems.flatironschool.com
@@ -50,4 +51,5 @@ learn
 #to run in the browser
 learn -b
 ```
+
 When you finish passing a test, remove the `x` from `xit` to convert it to a runnable test.
