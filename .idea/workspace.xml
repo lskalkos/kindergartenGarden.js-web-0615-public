@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="46b1332a-4880-410d-999b-1f655b766b7f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/garden.js" afterPath="$PROJECT_DIR$/lib/garden.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/garden.spec.js" afterPath="$PROJECT_DIR$/spec/garden.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kindergartenGarden.js-web-0615.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="garden.spec.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="garden.spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/garden.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25307125">
+            <state vertical-scroll-proportion="-4.12">
               <caret line="139" column="2" selection-start-line="139" selection-start-column="2" selection-end-line="139" selection-end-column="2" />
               <folding />
             </state>
@@ -45,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="garden.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="garden.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/garden.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state vertical-scroll-proportion="-0.2638889">
+              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -63,8 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/garden.js" />
         <option value="$PROJECT_DIR$/spec/garden.spec.js" />
+        <option value="$PROJECT_DIR$/lib/garden.js" />
       </list>
     </option>
   </component>
@@ -288,18 +288,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/garden.js">
+    <entry file="file://$PROJECT_DIR$/spec/garden.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state vertical-scroll-proportion="-4.12">
+          <caret line="139" column="2" selection-start-line="139" selection-start-column="2" selection-end-line="139" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/garden.spec.js">
+    <entry file="file://$PROJECT_DIR$/lib/garden.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25307125">
-          <caret line="139" column="2" selection-start-line="139" selection-start-column="2" selection-end-line="139" selection-end-column="2" />
+        <state vertical-scroll-proportion="-0.2638889">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
           <folding />
         </state>
       </provider>
